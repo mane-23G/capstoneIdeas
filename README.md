@@ -1,8 +1,8 @@
 # Capstone Ideas
 
-## 1. Rubix Cube Solver
+## 1. Rubik's Cube Solver
 
-My first idea would be a Rubix Cube Solver, it would most likely be a website that would require the user to input the cube details and then shows the steps to solve it. This would most likelt be done using javascript, html, css and if possible to use c++ for the backend algorithm to solve the rubix cube
+My first idea would be a Rubik's Cube Solver, it would most likely be a website that would require the user to input the cube details and then shows the steps to solve it. This would most likelt be done using javascript, html, css and if possible to use c++ for the backend algorithm to solve the rubix cube
 
 ## 2. Random Show/ Movie Selector
 
