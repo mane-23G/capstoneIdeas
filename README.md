@@ -6,7 +6,7 @@ My first idea would be a Rubik's Cube Solver, it would most likely be a website 
 
 ## 2. Random Show/ Movie Selector
 
-Random Show and Movie selectors do exist but this one would just be better. It would allow for selection of the various streaming services and a selection of genres. It would combine the features of JustWatch and IMBD. It would again most likely use javascript,html, and css and other languages if requried.
+Random Show and Movie selectors do exist but this one would just be better. It would allow for selection of the various streaming services and a selection of genres. It would combine the features of JustWatch and IMBD. It would also give an option to create and account and possibly sugest shows/movies based on the users previous ratings. It would again most likely use javascript,html, and css and other languages if requried.
 
 ## 3. Quizlet Upgraded 
 
